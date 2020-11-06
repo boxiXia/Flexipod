@@ -6,3 +6,7 @@ Abstract—We present an open-source untethered quadrupedal soft robot platform 
 <p align="center">
 {% include youtubePlayer.html id=page.D83X0FhM4kI %}
 </p>
+
+<p align="center">
+{% include youtubePlayer.html id=page.dFAsGUMLO9U %}
+</p>
