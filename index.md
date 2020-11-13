@@ -130,7 +130,7 @@ We developed a soft robot simulation environment based on the [Titan](https://gi
 
 <div>{%- include extensions/youtube.html id='D83X0FhM4kI' -%}</div>
 
-### locomotion patterns
+### Locomotion patterns
 
 ![flexipod locomotion](./assets/images/gait.jpg "flexipod locomotion")
 
@@ -139,7 +139,7 @@ We developed a soft robot simulation environment based on the [Titan](https://gi
 ### More backflips
 <div>{%- include extensions/youtube.html id='JLf9fDQOb48' -%}</div>
 
-### locomotion in the wild
+### Locomotion in the wild
 
 <div>{%- include extensions/youtube.html id='dFAsGUMLO9U' -%}</div>
 
