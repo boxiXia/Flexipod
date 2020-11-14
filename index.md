@@ -128,7 +128,7 @@ Flexipod soft leg and demonstration: (a) Soft Leg, leg coupler and bearing; (b) 
 <!-- ### [Simulation](https://github.com/boxiXia/FlexipodFast){:target="_blank"} -->
 We developed a soft robot simulation environment based on the [Titan](https://github.com/jacobaustin123/Titan) -- CUDA accelerated massively parallel asynchronous spring-mass simulation library. We extended the Titan library with a rotational kernel for contact-coupling of soft bodies. The Flexipod simulation achieved 10^9 spring evaluations per second on a consumer Nvidia 2080Ti GPU.
 
-<div>{%- include extensions/youtube.html id='D83X0FhM4kI' -%}</div>
+<div>{%- include extensions/youtube.html id='52yaNeKdhIc' -%}</div>
 
 ### Locomotion patterns
 
