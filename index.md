@@ -90,7 +90,7 @@ Abstract—We present an open-source untethered quadrupedal soft robot platform 
 <!-- [Hardware](https://github.com/boxiXia/FlexipodHardware){:target="_blank"}
 &nbsp; &nbsp; |&nbsp; &nbsp; 
 [Simulation](https://github.com/boxiXia/FlexipodFast){:target="_blank"} -->
-<a class="button button--success button--rounded button--md" href="./assets/flexipod_paper.pdf" target="_blank"><i class="fas fa-download"></i> paper</a>
+<a class="button button--success button--rounded button--md" href="https://arxiv.org/ftp/arxiv/papers/2011/2011.06749.pdf" target="_blank"><i class="fas fa-download"></i> paper</a>
 
 ### Paper video
 
